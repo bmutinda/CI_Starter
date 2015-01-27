@@ -85,8 +85,8 @@
 				<ul class="sidebar-menu">
 					<li class="active">
 						
-						<a href="">
-							<i class="fa fa-dashboard"></i> <span>Users</span>
+						<a href="<?php echo base_url();?>auth">
+							<i class="fa fa-dashboard"></i> <span>Admin Users</span>
 						</a>
 					</li>
 					<li class="active">
