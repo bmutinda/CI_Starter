@@ -86,9 +86,10 @@
 					<li class="active">
 						
 						<a href="<?php echo base_url();?>auth">
-							<i class="fa fa-dashboard"></i> <span>Admin Users</span>
+							<i class="fa fa-lock"></i> <span>Admin Users</span>
 						</a>
 					</li>
+					<!--
 					<li class="active">
 						<a href="index.html">
 							<i class="fa fa-dashboard"></i> <span>Dashboard</span>
@@ -173,6 +174,7 @@
 							<li><a href="pages/examples/blank.html"><i class="fa fa-angle-double-right"></i> Blank Page</a></li>
 						</ul>
 					</li>
+					-->
 				</ul>
 			</section>
 			<!-- /.sidebar -->
